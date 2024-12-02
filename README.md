@@ -15,7 +15,6 @@ synsaveinstance(Options)
 Or shortly USSI, a project aimed at resurrecting saveinstance function from [Synapse X Source 2019] & Other Executor Source leaks :trollface:.<br />
 Reason: Many Executors fail miserably at providing good user experience when it comes to tinkering with saving instances.
 
-> [!CREDITS]
 > Credits `UniversalSynSaveInstance https://discord.gg/wx4ThpAsmw`
 
 
