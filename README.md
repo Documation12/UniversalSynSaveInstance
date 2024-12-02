@@ -23,12 +23,6 @@ Reason: Many Executors fail miserably at providing good user experience when it 
 > This script does not edit much so little to no detections.
 > Enable the `SafeMode` option to bypass any detections and save **ANY** game!<br /><br /> (Report to there discord if still detected)
 
-
-# DISCORD SERVER:<br />
-
-<https://discord.com/invite/wx4ThpAsmw> **/** <https://discord.gg/wx4ThpAsmw><br />
-[<img src="https://discordapp.com/api/guilds/1022465460517740654/widget.png?style=banner2" alt="Our Official Discord Server!"></img>](https://discord.com/invite/wx4ThpAsmw)<br />
-
 # TO-DOs
 
 - [ ] Look into adding support for Binary Format Output (rbxl/rbxm)
