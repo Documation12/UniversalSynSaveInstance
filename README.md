@@ -15,14 +15,14 @@ synsaveinstance(Options)
 Or shortly USSI, a project aimed at resurrecting saveinstance function from [Synapse X Source 2019] & Other Executor Source leaks :trollface:.<br />
 Reason: Many Executors fail miserably at providing good user experience when it comes to tinkering with saving instances.
 
-> [!Credits]
-> Credits UniversalSynSaveInstance https://discord.gg/wx4ThpAsmw
+> [!CREDITS]
+> Credits `UniversalSynSaveInstance https://discord.gg/wx4ThpAsmw`
 
 
 > [!TIP]
-> Important part about this saveinstance is that it doesn't modify anything, therefore reduces the amount of detection vectors by a lot.<br />
-> You can also enable the `SafeMode` option to completely bypass any detections and save **ANY** game!<br /><br />
-> If this script is helpful to you, please click `⭐ Star` in the upper right corner of the page to support it, thank you!
+> This script does not edit much so little to no detections.
+> Enable the `SafeMode` option to bypass any detections and save **ANY** game!<br /><br /> (Report to there discord if still detected)
+
 
 # DISCORD SERVER:<br />
 
